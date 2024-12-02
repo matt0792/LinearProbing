@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class linearProbing {
     public static void main(String[] args) throws Exception {
-        System.out.println(72 % 9);
+        
     }
     // Declare vars for use later on in class
     private String[] hashTable;
